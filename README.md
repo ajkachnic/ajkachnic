@@ -1,24 +1,22 @@
-<h1 align="center">Hi there 👋, I'm Andrew Kachnic</h1>
+### hi, i'm andrew kachnic...
 
-For a while, I completely forgot that profile README's existed, so I guess I'm a little late. Anyway:
+i like building cool shit. particularly, i love building things that can connect people with technology in new ways.
 
-I enjoy working with:
+if you think i'm cool, visit my [website](https://nullish.space) or reach out (~~i love being validated~~).
 
+#### stuff
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/-Rust-a72145?style=flat-square&logo=Rust&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=Typescript&logoColor=white)
+most things i build are experiments that never see the light of day, but here's some things that i've been working on:
 
-<details>
-<summary>Here's a few useless projects that I've made:</summary>
+- **[blackhawk](https://github.com/ajkachnic/blackhawk)** — experimental compiler written in python (eww) with QBE as the backend
+- **space** — note taking tool that uses vector embeddings to automatically cluster notes
 
-[![kognise-tweet](https://github-readme-stats.vercel.app/api/pin/?username=ajkachnic&repo=kognise-tweet)](https://github.com/ajkachnic/kognise-tweet)
-[![Percentian](https://github-readme-stats.vercel.app/api/pin/?username=ajkachnic&repo=percentian)](https://github.com/ajkachnic/percentian)
-[![Not](https://github-readme-stats.vercel.app/api/pin/?username=ajkachnic&repo=not)](https://github.com/ajkachnic/not)
-[![And](https://github-readme-stats.vercel.app/api/pin/?username=ajkachnic&repo=and)](https://github.com/ajkachnic/and)
+#### testimonials
 
+> you're not even WRONG but fuck you
+>
+> —<cite>[Lexi Mattick](https://github.com/kognise)</cite>
 
-</details>
+> i fucking hate you
+> 
+> —<cite>*anonymous*</cite>
