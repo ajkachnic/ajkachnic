@@ -8,7 +8,7 @@ if you think i'm cool, visit my [website](https://nullish.space) or reach out (~
 
 most things i build are experiments that never see the light of day, but here's some things that i've been working on:
 
-- **[blackhawk](https://github.com/ajkachnic/blackhawk)** — experimental compiler written in python (eww) with QBE as the backend
+- **[nighthawk](https://github.com/ajkachnic/nighthawk)** — experimental compiler written in python (eww) with QBE as the backend
 - **space** — note taking tool that uses vector embeddings to automatically cluster notes
 
 #### testimonials
