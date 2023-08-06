@@ -6,7 +6,7 @@ if you think i'm cool, visit my [website](https://nullish.space) or reach out (~
 
 #### stuff
 
-most things i build are experiments that never see the light of day, but here's some things that i've been working on:
+most things i build never see the light of day, but here's some things that i've been working on:
 
 - **[nighthawk](https://github.com/ajkachnic/nighthawk)** — experimental compiler written in python (eww) with QBE as the backend
 - **space** — note taking tool that uses vector embeddings to automatically cluster notes
