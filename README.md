@@ -1,4 +1,4 @@
-### hi, i'm andrew kachnic...
+### hi, i'm andrew kachnic
 
 i like building cool shit. particularly, i love building things that can connect people with technology in new ways.
 
