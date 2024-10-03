@@ -6,10 +6,7 @@ if you think i'm cool, visit my [website](https://nullish.space) or reach out (~
 
 #### stuff
 
-most things i build never see the light of day, but here's some random things that i've been working on:
-
-- **[nighthawk](https://github.com/ajkachnic/nighthawk)** — experimental compiler written in python (eww) with QBE as the backend
-- **[space](https://github.com/ajkachnic/space)** — note taking tool that uses vector embeddings to automatically cluster notes
+recently i've been building mostly personal productivity tools and other misc things. eventually they'll be open source but for now you'll have to take my word for it :)
 
 #### testimonials
 
